@@ -1,0 +1,2 @@
+C:\Users\Dagur\Desktop\Android_Starter\TaskyAndroid\bin\Debug\TaskyAndroid.dll
+C:\Users\Dagur\Desktop\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll
